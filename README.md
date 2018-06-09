@@ -8,5 +8,7 @@ The goal of this project was to teach me fundamentals in design and user centere
 
 In this the player will click start button and will enter dungeon and must solve the puzzle in order to exit the room.This VR project will be used by the Puzzle Solver or VR Geeks to have better experience of VR to solve a puzzle.
 
+## Unique Consideration
 
+During completion of the project, I learn many design consideration , such as immersive sound effect, belivable lighting , comfortable player motion, proper scale etc.
 
