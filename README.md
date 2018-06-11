@@ -21,3 +21,5 @@ This project was successful thanks to iterative approach that was used to consis
 " target="_blank"><img src="http://img.youtube.com/vi/b4sFEc2hZ4Q/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="2400" height="500" border="10" /></a>
 
+![screenshot 6](https://user-images.githubusercontent.com/21164980/41223004-31ca1692-6d86-11e8-9342-3440453148e3.png)
+
