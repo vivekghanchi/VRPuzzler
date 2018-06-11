@@ -19,5 +19,5 @@ This project was successful thanks to iterative approach that was used to consis
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=b4sFEc2hZ4Q
 " target="_blank"><img src="http://img.youtube.com/vi/b4sFEc2hZ4Q/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="2400" height="1000" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="2400" height="500" border="10" /></a>
 
