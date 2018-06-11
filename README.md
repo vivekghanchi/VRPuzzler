@@ -12,3 +12,8 @@ In this the player will click start button and will enter dungeon and must solve
 
 During completion of the project, I learn many design consideration , such as immersive sound effect, belivable lighting , comfortable player motion, proper scale etc.
 
+
+## Puzzler
+This project was successful thanks to iterative approach that was used to consistently improve the game. The goal was to make user feel comfortable inside the VR scene and to make the game as intuitive as possible.
+
+
