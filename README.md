@@ -23,3 +23,6 @@ alt="IMAGE ALT TEXT HERE" width="2400" height="500" border="10" /></a>
 
 ![screenshot 6](https://user-images.githubusercontent.com/21164980/41223004-31ca1692-6d86-11e8-9342-3440453148e3.png)
 
+![screenshot 7](https://user-images.githubusercontent.com/21164980/41223627-f7e124dc-6d87-11e8-9b50-d479b7a20fcd.png)
+
+
