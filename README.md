@@ -17,7 +17,7 @@ During completion of the project, I learn many design consideration , such as im
 This project was successful thanks to iterative approach that was used to consistently improve the game. The goal was to make user feel comfortable inside the VR scene and to make the game as intuitive as possible.
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=v=b4sFEc2hZ4Q
-" target="_blank"><img src="http://img.youtube.com/vi/v=b4sFEc2hZ4Q/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=b4sFEc2hZ4Q
+" target="_blank"><img src="http://img.youtube.com/vi/b4sFEc2hZ4Q/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
