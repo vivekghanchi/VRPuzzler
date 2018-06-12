@@ -29,3 +29,4 @@ alt="IMAGE ALT TEXT HERE" width="2400" height="500" border="10" /></a>
 Statement of Purpose: Puzzler is a mobile VR application for new VR users which challenges them to solve a familiar type of puzzle in a new way.
 
 ## Sketches
+This are the sketches made at starting of the design Process in Vr.
