@@ -30,3 +30,5 @@ Statement of Purpose: Puzzler is a mobile VR application for new VR users which 
 
 ## Sketches
 This are the sketches made at starting of the design Process in Vr.
+![img_20180603_162950](https://user-images.githubusercontent.com/21164980/41310460-2f8beae4-6e9f-11e8-9288-5c58da8940c2.jpg)
+
