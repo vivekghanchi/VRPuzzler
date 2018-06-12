@@ -25,5 +25,5 @@ alt="IMAGE ALT TEXT HERE" width="2400" height="500" border="10" /></a>
 
 ![screenshot 7](https://user-images.githubusercontent.com/21164980/41223627-f7e124dc-6d87-11e8-9b50-d479b7a20fcd.png)
 
-## Process of the development
+## Process of the Development
 Statement of Purpose: Puzzler is a mobile VR application for new VR users which challenges them to solve a familiar type of puzzle in a new way.
