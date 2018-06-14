@@ -37,5 +37,21 @@ This are the sketches made at starting of the design Process in Vr.
 ## User Testing
 #### Aakash, Student 20
 
+1. What would you say is the mood of the place that you are in?
+
+It is very darker somewhere feels more horrible.
+
+2. How big you think you are in this experience?
+
+I think I am little bit smaller then I am, other object are far bigger.
+
+3. Is there anything that you’d like to look at but difficult to see?
+
+Yes the giant dinosaur over my head is not visible to me and there are very few light source makes difficult to see.
+
+4. Is our experience comfortable?
+
+Overall experience is not that good due to less lighting and scale
+
 
 
