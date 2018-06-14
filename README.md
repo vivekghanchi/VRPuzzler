@@ -34,5 +34,8 @@ This are the sketches made at starting of the design Process in Vr.
 
 ![img_20180603_163145](https://user-images.githubusercontent.com/21164980/41310543-6aa0ae44-6e9f-11e8-834c-75cd0b2d16c3.jpg)
 
+## User Testing
+#### Aakash, Student 20
+
 
 
