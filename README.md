@@ -35,10 +35,7 @@ This are the sketches made at starting of the design Process in Vr.
 ![img_20180603_163145](https://user-images.githubusercontent.com/21164980/41310543-6aa0ae44-6e9f-11e8-834c-75cd0b2d16c3.jpg)
 
 ## User Testing
-#### Aakash, Student 20
-
-
-
+#### User Test 1 :-> Aakash, Student 20
 1. What would you say is the mood of the place that you are in?
 
     It is very darker somewhere feels more horrible.
@@ -55,7 +52,7 @@ This are the sketches made at starting of the design Process in Vr.
 
     Overall experience is not that good due to less lighting and scale
 
-User Test 2 :-> Ritik, Engineer 28
+#### User Test 2 :-> Ritik, Engineer 28
 
 1. What would you say is the mood of the place that you are in?
 
