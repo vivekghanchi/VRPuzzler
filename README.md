@@ -37,6 +37,8 @@ This are the sketches made at starting of the design Process in Vr.
 ## User Testing
 #### Aakash, Student 20
 
+
+
 1. What would you say is the mood of the place that you are in?
 
     It is very darker somewhere feels more horrible.
@@ -53,5 +55,21 @@ This are the sketches made at starting of the design Process in Vr.
 
     Overall experience is not that good due to less lighting and scale
 
+User Test 2 :-> Ritik, Engineer 28
 
+1. What would you say is the mood of the place that you are in?
+
+The mood is very horrible as per the scene due to dinosaurs
+
+2. How big you think you are in this experience?
+
+I think like I am like a kid here.
+
+3. Is there anything that you’d like to look at but difficult to see?
+
+Yes lighting makes scene little bit difficult to see.
+
+4. Is our experience comfortable?
+
+Yes quiet comfortable experience but can be more improved by lighting
 
