@@ -72,3 +72,18 @@ Yes quiet comfortable experience but can be more improved by lighting
 
 #### User Test 3 :-> UI Feedback
 
+1.How Big would you say that panel is ?
+
+Is quite good and easy to see .
+
+2. What do you think this panel is for?
+
+This panel is for the start of the game name Puzzler.
+
+3.What do you think happens if you hit that button?
+
+It will Start my game puzzle take me to game scene.
+
+4. Can you tell me what will be the next screen that you see is for?
+
+next screen is the restart of the game or to quit the game.
