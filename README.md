@@ -56,34 +56,34 @@ This are the sketches made at starting of the design Process in Vr.
 
 1. What would you say is the mood of the place that you are in?
 
-The mood is very horrible as per the scene due to dinosaurs
+    The mood is very horrible as per the scene due to dinosaurs
 
 2. How big you think you are in this experience?
 
-I think like I am like a kid here.
+    I think like I am like a kid here.
 
 3. Is there anything that you’d like to look at but difficult to see?
 
-Yes lighting makes scene little bit difficult to see.
+    Yes lighting makes scene little bit difficult to see.
 
 4. Is our experience comfortable?
 
-Yes quiet comfortable experience but can be more improved by lighting
+    Yes quiet comfortable experience but can be more improved by lighting
 
 #### User Test 3 :-> UI Feedback
 
 1.How Big would you say that panel is ?
 
-Is quite good and easy to see .
+    Is quite good and easy to see .
 
-2. What do you think this panel is for?
+2.What do you think this panel is for?
 
-This panel is for the start of the game name Puzzler.
+    This panel is for the start of the game name Puzzler.
 
 3.What do you think happens if you hit that button?
 
-It will Start my game puzzle take me to game scene.
+    It will Start my game puzzle take me to game scene.
 
-4. Can you tell me what will be the next screen that you see is for?
+4.Can you tell me what will be the next screen that you see is for?
 
-next screen is the restart of the game or to quit the game.
+    next screen is the restart of the game or to quit the game.
