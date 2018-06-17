@@ -99,4 +99,4 @@ This are the sketches made at starting of the design Process in Vr.
 
 3.Are you feeling sick or something?
     
-    no, it is very handy.
+  No its very handy.
