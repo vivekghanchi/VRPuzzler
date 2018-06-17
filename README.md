@@ -98,5 +98,5 @@ This are the sketches made at starting of the design Process in Vr.
     it has comfortable pace.
 
 3.Are you feeling sick or something?
-
-    no,it is very handy.
+    
+    no, it is very handy.
