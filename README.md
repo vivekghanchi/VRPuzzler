@@ -89,3 +89,14 @@ This are the sketches made at starting of the design Process in Vr.
     next screen is the restart of the game or to quit the game.
 
 #### User Test 4: Movement Feedback
+1. Did you zoom into Room?
+
+     yes i did, quite good mood scene
+
+2. How did you feel about the speed of that movement?
+
+    it has comfortable pace.
+
+3.Are you feeling sick or something?
+
+    no,it is very handy.
