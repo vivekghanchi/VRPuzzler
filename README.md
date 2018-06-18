@@ -98,5 +98,11 @@ This are the sketches made at starting of the design Process in Vr.
     it has comfortable pace.
 
 3.Are you feeling sick or something?
+    No, Its Very Handy.
+   
+## Iteration
+
+
+
     
-    No its very handy.
+    
