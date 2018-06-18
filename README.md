@@ -102,7 +102,7 @@ This are the sketches made at starting of the design Process in Vr.
    
 ## Iteration
 
-Analyzing the feedback received, I decided to created user Little bit larger than it was so that he will feel same size in the scene and added more light to scene so that it will not look Horrible and iterated the same process till user feel comfortble
+Analyzing the feedback received, I decided to create user/player Little bit larger than it was so that he will feel same size in the scene and added more light to scene so that it will not look Horrible and iterated the same process till user feel comfortble
 
 
 
