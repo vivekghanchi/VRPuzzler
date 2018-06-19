@@ -105,6 +105,9 @@ This are the sketches made at starting of the design Process in Vr.
 Analyzing the feedback received, I decided to create user/player Little bit larger than it was so that he will feel same size in the scene and added more light to scene so that it will not look Horrible and iterated the same process till user feel comfortble
 
 ## Break down of the final piece
+    
+    Here I have the following VR application.
+    Player starts from the main menu, that is located outside the dungeon.
 
 
 
