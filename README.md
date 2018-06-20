@@ -108,6 +108,7 @@ Analyzing the feedback received, I decided to create user/player Little bit larg
     
     Here I have the following VR application.
     Player starts from the main menu, that is located outside the dungeon.
+![screenshot 10](https://user-images.githubusercontent.com/21164980/41639136-6aa87774-747a-11e8-8daf-3fcf43f182df.png)
 
 
 
