@@ -110,6 +110,9 @@ Analyzing the feedback received, I decided to create user/player Little bit larg
     Player starts from the main menu, that is located outside the dungeon.
 ![screenshot 10](https://user-images.githubusercontent.com/21164980/41639136-6aa87774-747a-11e8-8daf-3fcf43f182df.png)
 
+While player is standing outside, he is standing in a open environment
+When user clicks Start button, he moves to the dungeon, where the game takes place.
+
 
 
     
