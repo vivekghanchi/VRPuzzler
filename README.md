@@ -112,6 +112,9 @@ Analyzing the feedback received, I decided to create user/player Little bit larg
 
     While player is standing outside, he is standing in a open environment.
     When user clicks Start button, he moves to the dungeon, where the game takes place.
+    
+![screenshot 6](https://user-images.githubusercontent.com/21164980/41804968-bf0def2a-76bd-11e8-92e6-e1778a8cb440.png)
+
 
 
 
