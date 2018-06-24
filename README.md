@@ -114,7 +114,7 @@ Analyzing the feedback received, I decided to create user/player Little bit larg
     When user clicks Start button, he moves to the dungeon, where the game takes place.
     
 ![screenshot 6](https://user-images.githubusercontent.com/21164980/41804968-bf0def2a-76bd-11e8-92e6-e1778a8cb440.png)
-
+    Orbs, that are located in the room, lights up in a random sequence. User has to remember the sequence and to click on orbs in the       same order.
 
 
 
