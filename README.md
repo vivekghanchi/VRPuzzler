@@ -117,8 +117,11 @@ Analyzing the feedback received, I decided to create user/player Little bit larg
     
     Orbs, that are located in the room, lights up in a random sequence. 
     User has to remember the sequence and to click on orbs in the same order.
+    
+![screenshot 12](https://user-images.githubusercontent.com/21164980/41829155-d3739380-7856-11e8-8a9a-07091fcd36b8.png)
 
-![screenshot 13](https://user-images.githubusercontent.com/21164980/41829072-54fc1874-7856-11e8-9b5d-4580aa5327b6.png)
+
+
     
 
 
