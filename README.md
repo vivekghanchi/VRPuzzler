@@ -122,6 +122,8 @@ Analyzing the feedback received, I decided to create user/player Little bit larg
 
 ## Conclusion
 
+    This app was built to learn the fundamentals of design in virtual reality. During my work on this app I used such design techniques     as making sketches of future app implementation, using personas to make decisions, iterating through the development process using       real people feedbacks and others. As a result, Puzzler appears to be simple, but rather comfortable and immersive VR experience.
+
 
     
 
