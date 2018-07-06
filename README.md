@@ -97,9 +97,9 @@ This are the sketches made at starting of the design Process in Vr.
 
     it has comfortable pace.
 
-3.Are you feeling sick or something?
+3. Are you feeling sick or something?
     No, Its Very Handy.
-   
+    
 ## Iteration
 
 Analyzing the feedback received, I decided to create user/player Little bit larger than it was so that he will feel same size in the scene and added more light to scene so that it will not look Horrible and iterated the same process till user feel comfortble
