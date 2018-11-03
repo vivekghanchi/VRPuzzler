@@ -1,4 +1,4 @@
-#  Udacity VRPuzzler Project
+#  Udacity VR Puzzler Project
 
 This project is done as part of the Udacity VR Developer Nanodegree program.
 
