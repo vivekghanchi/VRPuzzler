@@ -1,6 +1,6 @@
 #  Udacity VR Puzzler Project
 
-This project is done as part of the Udacity VR Developer Nanodegree program.
+This project is done as part of the Udacity VR Developer Nanodegree program
 
 For this project we are required to design a simple mobile game/app, having the user experience in mind. To achieve this goal, we will conduct user testing to get feedback frequently, so that changes are easier to make in early stages of development. It is important to note that we take ergonomics, aural and visual stimuli into account to implement an intuitive and easy to play game.
 
