@@ -10,7 +10,7 @@ In this the player will click start button and will enter dungeon and must solve
 
 ## Unique Consideration
 
-During completion of the project, I learn many design consideration , such as immersive sound effect, belivable lighting , comfortable player motion, proper scale etc.
+During completion of the project, I learn many design consideration, such as immersive sound effect, belivable lighting , comfortable player motion, proper scale etc.
 
 
 ## Puzzler Project
