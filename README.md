@@ -38,7 +38,7 @@ This are the sketches made at starting of the design Process in Vr.
 #### User Test 1 :-> Aakash, Student 20
 1. What would you say is the mood of the place that you are in?
 
-    It is very darker somewhere feels more horrible.
+    It is very darker somewhere feels more horrible than it used to be.
 
 2. How big you think you are in this experience?
 
